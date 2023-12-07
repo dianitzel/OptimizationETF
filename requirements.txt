@@ -1,0 +1,13 @@
+matplotlib
+plotly
+xlrd
+exchange_calendars
+openpyxl
+yfinance
+streamlit
+yfinance
+pandas
+plotly
+exchange_calendars
+geopandas
+numpy
