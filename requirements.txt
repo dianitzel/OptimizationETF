@@ -11,3 +11,4 @@ plotly
 exchange_calendars
 geopandas
 numpy
+scipy
